@@ -1,0 +1,21 @@
+.conteudo {
+    background: rgb(212, 178, 245);
+    border: 1px solid;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    float: left;
+}
+
+/*.conteudo1 {
+    background: rgb(245, 178, 200);
+    border: 1px solid;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    float: left;
+}*/
+
+.clear {
+    clear: both;
+}
